@@ -1,44 +1,32 @@
-# Hi there! 👋 I'm MeowDev7
+# 👋 Hi, I'm MeowDev7
 
-## About Me
-I'm a passionate Discord bot developer and creator of CreatorDJS, a Node.js package designed to simplify the process of building Discord bots using Discord.js v14.
+## 💼 Portfolio
 
-## CreatorDJS
-CreatorDJS is a versatile Node.js package that streamlines the creation of Discord bots. It provides easy-to-use methods for setting up and managing bot functionality, including slash commands, prefix commands, and database connections.
+I'm a Discord bot developer passionate about creating seamless experiences for communities. My expertise lies in building bots using Discord.js v14. Check out my featured project:
 
-### Features
-- **Initialization:** Easily initialize your bot with `creatordjs.init(token, prefix)`.
-- **Slash Commands:** Register slash commands with `creatordjs.slash(commands)`.
-- **Prefix Commands:** Register prefix commands with `creatordjs.message(commands)`.
-- **Database Connectivity:** Connect your bot to MongoDB using Mongoose via `creatordjs.database(mongooseUrl)`.
-- **Developer Restrictions:** Secure your bot by restricting certain commands to designated developers.
-- **Permission Checks:** Ensure user and bot permissions before executing commands.
-- **Dynamic Command Loading:** Load commands dynamically from a specified directory.
-- **Event Handling:** Seamlessly handle Discord events with event listeners.
-- **Error Handling:** Integrated error handling with an `errorHandler` function.
+### [CreatorDJS](https://github.com/meowdev7/CreatorDJS)
+🚀 Simplify Discord bot creation with easy-to-use methods for slash commands, prefix commands, and database connections.
 
-### Prebuilt Commands
-- **Slash Commands:** Includes a variety of prebuilt slash commands like `ping`.
-- **Message (Prefix) Commands:** Prebuilt message commands like `ping`.
+## 🎨 Featured Work
 
-## Tutorial
+- [CreatorDJS](https://github.com/meowdev7/CreatorDJS): Simplified Discord bot creation tool.
+- [More Projects](https://github.com/meowdev7)
+
+## 📚 Tutorials
+
 Explore tutorials and learn more about CreatorDJS on my [YouTube Playlist](https://www.youtube.com/playlist?list=PLoghmIxwCwEsobzw-a_hqt6NPLpIm_FXH).
 
-## Support
-For additional help and support, join our Discord server: [Meow Dev 7's Lab Discord Server](https://dsc.gg/mdlab).
+## 🛠️ Tools
 
-## License
-This project is licensed under the ISC License.
+- **Languages:** JavaScript
+- **Frameworks/Libraries:** Discord.js, Node.js
+- **Databases:** MongoDB
+- **Tools:** Mongoose, dotenv
 
-## Get in Touch
-- GitHub: [meowdev7](https://github.com/meowdev7)
-- Twitter: [meowedev7](https://twitter.com/meowdev7)
+## 🌐 Get in Touch
 
-## Modules Used
-- [chalk](https://www.npmjs.com/package/chalk) - For colored console output
-- [discord.js](https://www.npmjs.com/package/discord.js) - Discord API library for Node.js
-- [dotenv](https://www.npmjs.com/package/dotenv) - For loading environment variables
-- [mongoose](https://www.npmjs.com/package/mongoose) - MongoDB object modeling tool designed to work in an asynchronous environment
-- [table](https://www.npmjs.com/package/table) - For generating ASCII tables
+- [GitHub](https://github.com/meowdev7)
+- [Twitter](https://twitter.com/meowdev7)
+- [Discord](https://dsc.gg/mdlab): Join Meow Dev 7's Lab for support and discussions.
 
-Feel free to reach out if you have any questions or suggestions!
+Feel free to reach out for collaborations or just to say hi!
