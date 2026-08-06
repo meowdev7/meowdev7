@@ -8,8 +8,8 @@ I started programming by creating Discord bots and I'm currently expanding into 
 
 # 💫 About Me
 
-* 🔭 Currently working on **C++ learning projects and improving my GitHub portfolio**
-* 🌱 Currently learning **C++, TypeScript, and programming fundamentals**
+* 🔭 Currently working on **Rust learning projects and improving my GitHub portfolio**
+* 🌱 Currently learning **Rust, Go, and programming fundamentals**
 * 🤝 Open to collaborating on **beginner-friendly open source projects**
 * 💬 Ask me about **Discord bot development, JavaScript, or beginner C++ projects**
 * ⚡ Fun fact: **I started programming through Discord bot development in 2019**
@@ -18,7 +18,7 @@ I started programming by creating Discord bots and I'm currently expanding into 
 
 # 🚀 Current Focus
 
-* Building small **C++ projects**
+* Building small **Rust projects**
 * Improving **problem solving**
 * Maintaining **consistent GitHub activity**
 * Preparing for **larger long-term projects**
